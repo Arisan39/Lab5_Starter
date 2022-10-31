@@ -1,3 +1,14 @@
 # Lab 5 - Starter
-Name: Chih-Lin Wang
-Partner: Alyssa Kongswangwongsa
+
+## Lab Partners
+
+1.Alyssa Kongswangwongsa
+2.Chih-Lin Wang
+
+
+## Continuous Integration Repo Link:
+
+## Expose Part Link:
+https://arisan39.github.io/Lab5_Starter/expose.html
+
+## Explore Part Link:
