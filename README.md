@@ -3,7 +3,7 @@
 ## Lab Partners
 
 1.Alyssa Kongswangwongsa
-2.Chih-Lin Wang
+2.Chih-Lin (Linda) Wang
 
 
 ## Continuous Integration Repo Link:
