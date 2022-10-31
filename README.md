@@ -7,8 +7,10 @@
 
 
 ## Continuous Integration Repo Link:
+https://github.com/linda89821/introduction-to-github
 
 ## Expose Part Link:
 https://arisan39.github.io/Lab5_Starter/expose.html
 
 ## Explore Part Link:
+https://arisan39.github.io/Lab5_Starter/explore.html
